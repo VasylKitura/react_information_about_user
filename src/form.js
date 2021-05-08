@@ -145,6 +145,6 @@ const Form = () => {
       </article>
     </>
   );
-};
+};// Все таке саме, як в main
 
 export default Form;
